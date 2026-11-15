@@ -1,3 +1,29 @@
+# skyvern
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Automate browser based workflows with AI
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+用 AI 自动化基于浏览器的工作流。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <!-- DOCTOC SKIP -->
 
 <h1 align="center">
